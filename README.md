@@ -1,16 +1,15 @@
-<p align="center">
-  <img alt="Shreya Khetan — AI and machine learning" width="880" src="assets/banner.svg" />
-</p>
+<h1 align="center">Hi, I'm Shreya Khetan</h1>
+<h3 align="center">AI engineer · MSCIS at the University of Pennsylvania</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shreyakhetan910/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0d0e12?style=flat-square&logo=linkedin&logoColor=8b95f0" /></a>
-  <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6354874"><img alt="Research" src="https://img.shields.io/badge/Research-0d0e12?style=flat-square&logo=semanticscholar&logoColor=8b95f0" /></a>
-  <a href="https://www.sciencedirect.com/science/article/pii/S2950345024000150"><img alt="Publication" src="https://img.shields.io/badge/Publication-0d0e12?style=flat-square&logo=googlescholar&logoColor=8b95f0" /></a>
-  <a href="mailto:shreya09@engineering.upenn.edu"><img alt="Email" src="https://img.shields.io/badge/Email-0d0e12?style=flat-square&logo=gmail&logoColor=8b95f0" /></a>
-  <a href="https://github.com/shreyakhetan09"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-0d0e12?style=flat-square&logo=github&logoColor=8b95f0" /></a>
+  <a href="https://www.linkedin.com/in/shreyakhetan910/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6354874"><img alt="Research" src="https://img.shields.io/badge/Research-4285F4?style=flat&logo=semanticscholar&logoColor=white" /></a>
+  <a href="https://www.sciencedirect.com/science/article/pii/S2950345024000150"><img alt="Publication" src="https://img.shields.io/badge/Publication-4285F4?style=flat&logo=googlescholar&logoColor=white" /></a>
+  <a href="mailto:shreya09@engineering.upenn.edu"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/shreyakhetan09"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center">AI engineer building agents, retrieval systems, and computer vision.<br/>MSCIS at the University of Pennsylvania.</p>
+<p align="center">I build agents, retrieval systems, and computer-vision models.</p>
 
 ---
 
@@ -27,17 +26,61 @@ Author page: [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=635
 
 AI Engineer Intern at **Felix**. Production fraud-investigation agents on Google ADK and Vertex AI, deployed on GKE, plus a BigQuery and dbt pipeline that scores fraud-ops conversations.
 
-Previously: software engineer at Forcepoint, machine learning intern at IIT Mandi and TIAA. B.Tech. in Computer Engineering with Honours in Data Science and Analytics, K.J. Somaiya College of Engineering. Silver medalist.
+Previously a software engineer at Forcepoint and a machine learning intern at IIT Mandi and TIAA. B.Tech. in Computer Engineering with Honours in Data Science and Analytics, K.J. Somaiya College of Engineering. Silver medalist.
+
+---
+
+### Stack
+
+#### Languages
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-0d0e12?style=flat-square&logo=python&logoColor=8b95f0" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-0d0e12?style=flat-square&logo=pytorch&logoColor=8b95f0" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-0d0e12?style=flat-square&logo=tensorflow&logoColor=8b95f0" />
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-0d0e12?style=flat-square&logo=scikitlearn&logoColor=8b95f0" />
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-0d0e12?style=flat-square&logo=opencv&logoColor=8b95f0" />
-  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-0d0e12?style=flat-square&logo=googlegemini&logoColor=8b95f0" />
-  <img alt="Vertex AI" src="https://img.shields.io/badge/Vertex%20AI-0d0e12?style=flat-square&logo=googlecloud&logoColor=8b95f0" />
-  <img alt="PySpark" src="https://img.shields.io/badge/PySpark-0d0e12?style=flat-square&logo=apachespark&logoColor=8b95f0" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+</p>
+
+#### Libraries and frameworks
+
+<p>
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img alt="PySpark" src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
+  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+</p>
+
+#### Data, cloud, and delivery
+
+<p>
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
+  <img alt="Vertex AI" src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white" />
+  <img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white" />
+</p>
+
+#### How the work ships
+
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
 </p>
 
 ---
